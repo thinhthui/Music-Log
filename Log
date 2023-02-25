@@ -63,3 +63,5 @@ HFS 3.x
 03:47:55  16/02/2023 : Server transfered from HFS 2.x to 3.x, giving some features like faster movement on site, archived as zip, music can play while nevagating
 20:30:05  20/02/2023 : HFS updated to 0.35.0
                        Full Changelog : https://github.com/rejetto/hfs/compare/v0.34.1...v0.35.0
+00:37:48  26/02/2023 : Added : Kyokou Suiri (In／Spectre) Original Soundtrack   // Music\Soundtracks
+02:58:24  26/02/2023 : Added : a current playlist (which is also draggable)
